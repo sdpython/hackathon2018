@@ -1,0 +1,45 @@
+exc,name,p_car0,p_car1,p_housedown,p_no,p_river0,p_river1,p_street0,p_street1,precision,time,version
+,team4/try16,0.5833333333333334,1.0,0.2,0.7727272727272727,0.3888888888888889,0.9818181818181818,0.42857142857142855,0.9642857142857144,0.7846889952153109,79.68126990300152,0.1.1234
+,team4/try11,0.5,0.9090909090909092,0.0,0.803030303030303,0.1111111111111111,0.9818181818181818,0.6428571428571429,0.9285714285714286,0.7655502392344498,80.80937943800018,0.1.1234
+,team4/try15,0.6666666666666666,0.4545454545454545,0.4,0.8939393939393939,0.5555555555555556,0.5818181818181818,0.7142857142857143,0.5,0.6698564593301436,62.93499562999932,0.1.1234
+,hack_x_resnet_team3_try3,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.5502392344497608,103.24244510800057,0.1.1237
+,hack_x_resnet_team3_tryfinal,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.5502392344497608,98.30828625600044,0.1.1237
+,team1/pouloulou,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.5502392344497608,32.18017170600069,0.1.1238
+,hack_x_resnet_team3_try14,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.5502392344497608,98.91723196900057,0.1.1237
+,hack_x_resnet_team3_try15,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.5502392344497608,100.93454659300188,0.1.1237
+,team1/model_dingo,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.5502392344497608,34.40780325699961,0.1.1238
+,hack_x_vgg_team3_try3,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.5502392344497608,64.21069937500215,0.1.1237
+,hack_x_resnet_team3_try5,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.5502392344497608,98.021325462003,0.1.1237
+,hack_x_resnet_team3_try6,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.5502392344497608,101.055409487999,0.1.1237
+,hack_x_resnet_team3_try7_with_debug,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.5502392344497608,103.4378651340012,0.1.1237
+,team4/try7,0.0,0.9090909090909092,0.0,0.0,0.05555555555555555,0.9454545454545454,0.07142857142857142,1.0,0.44019138755980863,62.18834906700067,0.1.1234
+cannot write mode RGBA as JPEG,team4/try10,0.0,0.9090909090909092,0.0,0.6363636363636364,0.0,0.0,0.6428571428571429,0.0,0.29186602870813394,81.30688816700058,0.1.1234
+"OpenCV(3.4.3) /mnt/opencv/modules/dnn/src/caffe/caffe_io.cpp:1132: error: (-2:Unspecified error) FAILED: fs.is_open(). Can't open ""frozen_east_text_detection.pb"" in function 'ReadProtoFromBinaryFile'
+",team4/try17,,,,,,,,,0.0,87.3176536380015,0.1.1234
+name 'numpy' is not defined,hack_x_resnet_team3,,,,,,,,,0.0,21.63028687399856,0.1.1237
+Prediction with the wrong type <class 'tuple'>,team4/try9,,,,,,,,,0.0,84.95749491300013,0.1.1234
+"OpenCV(3.4.3) /mnt/opencv/modules/dnn/src/caffe/caffe_io.cpp:1132: error: (-2:Unspecified error) FAILED: fs.is_open(). Can't open ""frozen_east_text_detection.pb"" in function 'ReadProtoFromBinaryFile'
+",team4/try20,,,,,,,,,0.0,79.49946697400081,0.1.1234
+Prediction with the wrong type <class 'tuple'>,team4/try8,,,,,,,,,0.0,82.00293981499998,0.1.1234
+name 'os' is not defined,team4/try13,,,,,,,,,0.0,0.06121287700079848,
+"unexpected indent (model.py, line 2)",team5_3/svm_final_try1,,,,,,,,,0.0,1.3951576380022743,
+Unable to open file (file signature not found),team5_3/svm_final_try2,,,,,,,,,0.0,0.00702154300233815,
+Unable to open file (file signature not found),team5_3/svm_final_try3,,,,,,,,,0.0,0.009417557997949187,
+Unable to open file (file signature not found),team5_3/svm_final_try4,,,,,,,,,0.0,1.4943071659981797,
+name 'pickle' is not defined,team5_3/svm_final_try5,,,,,,,,,0.0,0.0065009389982151325,
+"Unable to open file (unable to open file: name = 'disaster.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)",team4/try14,,,,,,,,,0.0,1.3808133470010944,
+"Unable to open file (unable to open file: name = 'vgg16_big_128_unweighted.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)",team1/model3,,,,,,,,,0.0,0.006282038000790635,
+"Unable to open file (unable to open file: name = 'disaster.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)",team4/try12,,,,,,,,,0.0,0.006390939000993967,
+"Tensor Tensor(""sequential_2/dense_2/Sigmoid:0"", shape=(?, 1), dtype=float32) is not an element of this graph.",hack_x_resnet_team3_try10,,,,,,,,,0.0,28.296011533999266,0.1.1237
+"Unable to open file (unable to open file: name = 'vgg16_big_128_unweighted.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0)",team1/model2,,,,,,,,,0.0,1.4751639349997276,
+"unexpected indent (model_team1.py, line 1)",team1/model1,,,,,,,,,0.0,1.3999368530021457,
+Cannot find model '/home/jbr/hack35/hack_x_vgg_team3_try2/hack_x_resnet_team3.h5' (full path is '/home/jbr/hack35/hack_x_vgg_team3_try2/hack_x_resnet_team3.h5'),hack_x_vgg_team3_try2,,,,,,,,,0.0,1.8100292220005945,
+Cannot find model '/home/jbr/hack35/hack_x_vgg_team3_try1/hack_x_resnet_team3.h5' (full path is '/home/jbr/hack35/hack_x_vgg_team3_try1/hack_x_resnet_team3.h5'),hack_x_vgg_team3_try1,,,,,,,,,0.0,1.7040647640023965,
+"Tensor Tensor(""sequential_2/dense_2/Sigmoid:0"", shape=(?, 1), dtype=float32) is not an element of this graph.",hack_x_resnet_team3_try9,,,,,,,,,0.0,25.601556491998053,0.1.1237
+"Tensor Tensor(""sequential_2/dense_2/Sigmoid:0"", shape=(?, 1), dtype=float32) is not an element of this graph.",hack_x_resnet_team3_try8,,,,,,,,,0.0,26.273836182997908,0.1.1237
+"Tensor Tensor(""sequential_2/dense_2/Sigmoid:0"", shape=(?, 1), dtype=float32) is not an element of this graph.",hack_x_resnet_team3_try4,,,,,,,,,0.0,28.75213918699956,0.1.1237
+name 'skt' is not defined,hack_x_resnet_team3_try2,,,,,,,,,0.0,22.380424573999335,0.1.1237
+"Tensor Tensor(""sequential_2/dense_2/Sigmoid:0"", shape=(?, 1), dtype=float32) is not an element of this graph.",hack_x_resnet_team3_try13,,,,,,,,,0.0,28.165902692999225,0.1.1237
+"Tensor Tensor(""sequential_2/dense_2/Sigmoid:0"", shape=(?, 1), dtype=float32) is not an element of this graph.",hack_x_resnet_team3_try12,,,,,,,,,0.0,28.062482606997946,0.1.1237
+"Tensor Tensor(""sequential_2/dense_2/Sigmoid:0"", shape=(?, 1), dtype=float32) is not an element of this graph.",hack_x_resnet_team3_try11,,,,,,,,,0.0,26.369247955000898,0.1.1237
+Found array with dim 4. Estimator expected <= 2.,team5_3/svm_final_try6,,,,,,,,,0.0,68.65910855499897,0.1.1237
